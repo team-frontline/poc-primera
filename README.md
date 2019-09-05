@@ -7,4 +7,4 @@ A hyperledger fabric network with four peer nodes, one orderer node and ca node 
 
 use this command to run hyperledger fabric network on minikube:
 
-    ./nephos/deploy.py --verbose -f ./bc-network/dev-ctm/nephos_config.yaml fabric
+    ./nephos/deploy.py --verbose -f ../bc-network/dev-ctm/nephos_config.yaml fabric (inside nephos folder)
